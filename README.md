@@ -1,2 +1,2 @@
 # Lisbeth-Codo
-Desarrolladora Iniciada
+Desarrolladora Iniciada en Oracle
